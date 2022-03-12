@@ -1,5 +1,4 @@
-## Bem-vindo(a) ao perfil do 
-giovana vidal de paiva😁
+## Bem-vindo(a) ao perfil do ryan willamy 😁
 
  <div>
   <a href="https://github.com/ryanwillamy18">
@@ -18,7 +17,7 @@ giovana vidal de paiva😁
  
 <div> 
  
-  <a href="https://instagram.com/ryanwillamy18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ryanwillamy1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   
  
